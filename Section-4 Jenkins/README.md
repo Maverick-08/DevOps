@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ **Problems Solved by Jenkins**
+## ✅ **Problems Solved by Jenkins**
 1. **Automation of CI/CD**:
    - Eliminates manual processes for code integration, testing, and deployment.
 2. **Improved Collaboration**:
@@ -21,7 +21,7 @@
 
 ---
 
-## 🕰️ **Software Development: Pre-Jenkins vs Post-Jenkins**
+## 🛠️ **Software Development: Pre-Jenkins vs Post-Jenkins**
 
 ### **Pre-Jenkins Era**
 1. **Manual Builds**:
@@ -32,6 +32,8 @@
    - Deployments required extensive coordination, often resulting in delays.
 4. **Lack of Feedback**:
    - Developers lacked immediate feedback on code changes.
+
+   ![alt text](image.png)
 
 ### **Post-Jenkins Era**
 1. **Continuous Integration**:
@@ -82,7 +84,7 @@
 
 ---
 
-## 📚 **Conclusion**
+## 📜 **Conclusion**
 
 Jenkins revolutionized software development by introducing automation into CI/CD pipelines. It replaced manual workflows with efficient processes that improve collaboration between teams while ensuring faster delivery cycles with high-quality output.
 
