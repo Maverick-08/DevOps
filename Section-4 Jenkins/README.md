@@ -34,6 +34,7 @@
    - Developers lacked immediate feedback on code changes.
 
    ![alt text](image.png)
+   
 
 ### **Post-Jenkins Era**
 1. **Continuous Integration**:
@@ -44,6 +45,9 @@
    - Jenkins pipelines define workflows as code for end-to-end automation.
 4. **Immediate Feedback**:
    - Real-time feedback on build results helps developers resolve issues quickly.
+
+    ![alt text](image-1.png)
+
 
 ---
 
